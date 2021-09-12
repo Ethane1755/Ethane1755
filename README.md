@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Ethane Hsieh, I live in Taipei, Taiwan and is a student in C.K.H.S. who is currently learning coding.
+I'm Ethane Hsieh, I live in Taipei, Taiwan and is a student in C.K.H.S. who is currently learning coding.  
 All comments are welcomed!
 <!--
 **Ethane1755/Ethane1755** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
